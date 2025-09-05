@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "321340780478",
+    "project_id": "jobapp-fe931",
+    "storage_bucket": "jobapp-fe931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321340780478:android:5c5482a30fb8c660f253ef",
+        "android_client_info": {
+          "package_name": "com.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321340780478-vobb7p9k86l8h17ad13a92d789tcnjvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGt0w-4XgRiP5CGAA7_GCuYh4CEMtt5VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321340780478-vobb7p9k86l8h17ad13a92d789tcnjvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321340780478-9q13j66aur7ot931qe88g38toq7eucdh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Wordapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

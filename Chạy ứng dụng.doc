@@ -1,0 +1,5 @@
+1. mở terminal và chạy lệnh "npm install"
+2. sau khi cài đặt xong các thư viện của dự án thì chạy "npm start"
+
+yêu cầu với windows thì cần cài đặt phiên bản node v18.19.1
+cài đặt ứng dụng expo trên điện thoại khi ứng dụng chạy thì quét mã QR để build ứng dụng còn đối với android(máy ảo) thì lấy link có dạng exp://192.168.1.8:8081
